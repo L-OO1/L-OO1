@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-$\color{orange}{\textsf{'—'Cause you're the most STUPIDEST show that I've ever SEEN!'}}$
+$\color{orange}{\textsf{'—'Cause you're the STUPIDEST show that I've ever SEEN!'}}$
 <p align="center">
 $\color{orange}{\textsf{'And if I can make you entertaining, I can do ANYTHING!!'}}$
 
