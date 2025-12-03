@@ -6,3 +6,7 @@
 $\color{orange}{\textsf{'—Because you're the most STUPIDEST show that I've ever SEEN!'}}$
 <p align="center">
 $\color{orange}{\textsf{'And if I can make you entertaining then I can do ANYTHING!!'}}$
+
+<p align="center">
+<img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/6fe415d8-eb5a-46a1-a779-db7edf5ca624" />
+</p>
