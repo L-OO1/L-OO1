@@ -1,6 +1,4 @@
-<p align="center">
-  <img width="690" height="1100" src="https://github.com/user-attachments/assets/07f3d904-3962-48ba-8819-d758750f4cf5" />
-</p>
+
 
 <p align="center">
 $\color{orange}{\textsf{'—'Cause you're the STUPIDEST show that I've ever SEEN!'}}$
